@@ -5,7 +5,7 @@
  * @param  {Object} containerSizes An object containing the `width` and `height` of the container
  * @return {Object}                An object containing the newly computed `width` and `height` of the element
  */
-export default function(elementSizes, containerSizes) {
+function backgroundCover(elementSizes, containerSizes) {
 	const elementRatio = elementSizes.width / elementSizes.height
 	const containerRatio = containerSizes.width / containerSizes.height
 
@@ -21,3 +21,5 @@ export default function(elementSizes, containerSizes) {
 
 	return { width, height }
 }
+
+module.exports = backgroundCover
