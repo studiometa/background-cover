@@ -2,6 +2,12 @@
 
 A small javascript implementation of the `background-size: cover` algorithm.
 
+## Installation
+
+```bash
+yarn add studiometa-background-cover
+```
+
 ## Usage
 
 ```js
