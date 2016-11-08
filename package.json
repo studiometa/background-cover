@@ -1,5 +1,5 @@
 {
-  "name": "background-cover",
+  "name": "studiometa-background-cover",
   "version": "1.0.0",
   "description": "A small javascript implementation of the `background-size: cover` algorithm.",
   "main": "index.js",
@@ -7,6 +7,6 @@
     "url": "git@github.com:studiometa/background-cover.git",
     "type": "git"
   },
-  "author": "Studio Meta",
+  "author": "Studio Meta (http://www.studiometa.fr/)",
   "license": "Beerware"
 }
