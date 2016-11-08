@@ -1,0 +1,12 @@
+{
+  "name": "background-cover",
+  "version": "1.0.0",
+  "description": "A small javascript implementation of the `background-size: cover` algorithm.",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:studiometa/background-cover.git",
+    "type": "git"
+  },
+  "author": "Studio Meta",
+  "license": "Beerware"
+}
