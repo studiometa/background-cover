@@ -1,6 +1,6 @@
 {
   "name": "studiometa-background-cover",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small javascript implementation of the `background-size: cover` algorithm.",
   "main": "index.js",
   "repository": {
